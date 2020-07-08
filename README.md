@@ -1,2 +1,2 @@
 # Movie-Recommendation-System-Boltzmann-Machine-
-Boltzmann Machine is considered one of the most complex un-supervised deep learning method which is used for recommendation systems. The following project implements a movie recommendation system which is robust and accurate , thanks to Boltzmann machines model. The model is trained on 1,00,000 movies data-set and predicts the ratings with minimal loss.
+Boltzmann Machine is considered one of the most complex unsupervised deep learning method which is used for recommendation systems. The following project implements a movie recommendation system which is robust and accurate , thanks to Boltzmann machines model. The model is trained on 1,00,000 movies data-set and predicts the ratings with minimal loss.
